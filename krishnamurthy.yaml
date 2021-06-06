@@ -1,0 +1,13 @@
+---
+employees:
+   - name:Krishna
+      age:35
+   - name:Kumar
+      age:38
+   - name:Ananth
+      age:32
+   - name:Vaishali
+      age:31
+   - name:Pramod
+      age:34
+...
